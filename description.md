@@ -1,7 +1,9 @@
 **Data Science Project: Impact of Psychosocial Factors on Medical Treatment Outcomes**
+
 This project investigates how psychosocial factors—such as race, income, education level, and psychiatric disturbances—affect the survival rates and treatment outcomes for patients undergoing medical procedures like transplantation.
 
 **Problem Statement**
+
 We explored the relationship between social and psychological factors and health outcomes, focusing on:
 
 **The impact of race, education status, and income on survival rates.#**
